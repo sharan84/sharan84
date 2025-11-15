@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharan84
 - 👀 I’m interested in travelling and learning
-- 🌱 I’m currently learning Data Science
+- 🌱 Completed Certification in Data Science and AI
 - 💞️ I’m looking to collaborate on programmers, developers, data scientist, analyst
 - 📫 How to reach me sharan.kunna84@gmail.com
 - 😄 Pronouns: Sharan
